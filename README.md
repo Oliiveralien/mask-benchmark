@@ -1,4 +1,4 @@
-# QD-IMD: Quick Draw Irregular Mask Dataset
+# Mask Benchmark from QD dataset
 ![Masked CelebA](https://raw.githubusercontent.com/karfly/qd-imd/master/readme/celeba_masked_6_examples.png)
 
 [Inpainting](https://en.wikipedia.org/wiki/Inpainting) is an important computer vision task, where goal is to restore masked parts of an image. E.g., inpainting can help in erasing from photo something unwanted like passing bystander or your ex-partner.
