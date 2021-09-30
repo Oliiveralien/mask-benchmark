@@ -26,6 +26,6 @@ Quick Draw (simplified). [here](https://console.cloud.google.com/storage/browser
 ```bash
 python generate_dataset.py
 ```
-#9.28 update on generate_dataset.py
+###9.28 update on generate_dataset.py
 
 0/1 label generation for the mask dataset
