@@ -30,7 +30,6 @@ def _parse_args():
 
     return parser.parse_args()
 
-
 def main():
     np.random.seed(0)  # for reproducibility
 
